@@ -3,6 +3,8 @@
 <p>本文使用的hosts数据源来自于<a href="https://github.com/ineo6/hosts">这个仓库</a>和<a href="https://gitee.com/frankwuzp/github-host">这个仓库</a></p>
 <p>有window和Linux两个版本</p>
 <p>使用前请确定自己的网络可以访问gitlab或者gitee</p>
+<p>安装文件中所包含的所有模块的命令：</p>
+<p>pip install -r requirements.txt</p>
 
 ## 墙介绍
 被 qiang 大体有两种：DNS污染，封杀IP。 
